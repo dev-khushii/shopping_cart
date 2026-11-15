@@ -69,7 +69,7 @@ main()	Runs the menu loop
 ![Output 1](Output1.jpeg)
 
 ### 2. Add to Cart and Checkout
-![Output 2](Output2.jpeg)
+![Output 2](output2.jpeg)
 
 ### 3. Invalid Input
 ![Output 3](Output3.jpeg)
